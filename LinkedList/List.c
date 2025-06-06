@@ -1,7 +1,3 @@
-/*
- * List.c
- * Makes the List ADT for Lex.c
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
