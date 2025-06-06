@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA6
-* BigInteger.cpp
-* BigInteger ADT
-***/
 #include <iostream>
 #include "BigInteger.h"
 #include "List.h"
