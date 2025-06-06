@@ -1,8 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * pa4
- */
 #ifndef MATRIX_H
 #define MATRIX_H
 #include<stdbool.h>
