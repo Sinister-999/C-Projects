@@ -1,9 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * PA2
- * List.h - Allows public use of List ADT functions
- */
 #ifndef LIST_H_INCLUDE_
 #define LIST_H_INCLUDE_
 #include<stdbool.h>
