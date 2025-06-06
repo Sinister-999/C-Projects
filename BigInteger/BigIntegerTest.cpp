@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA6
-* BigIntegerTest.cpp
-* Test Client for BigInteger ADT
-***/
 #include <iostream>
 #include "BigInteger.h"
 #include "List.h"
