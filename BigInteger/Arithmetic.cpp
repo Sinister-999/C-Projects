@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA6
-* Arithmetic.cpp
-* Client for BigIntegerADT
-***/
 #include <iostream>
 #include <fstream>
 #include <string>
