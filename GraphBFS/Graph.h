@@ -1,10 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * PA2
- * Graph.h - Allows public use of Graph ADT functions
- */
-
 #ifndef PA2_GRAPH_H
 #define PA2_GRAPH_H
 #include "List.h"
