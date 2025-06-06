@@ -1,11 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA6
-* List.h
-* Header file for List ADT
-***/
-
 //-----------------------------------------------------------------------------
 // List.h
 // Header file for List ADT. List is a double ended queue with a vertical
