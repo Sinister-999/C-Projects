@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA5
-* Shuffle.cpp
-* Client file for PA5
-***/
 #include <iostream>
 #include "List.h"
 
