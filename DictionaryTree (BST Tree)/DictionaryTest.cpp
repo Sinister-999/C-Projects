@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA7
-* DictionaryTest.cpp
-* Testing client for Dictionary ADT
-***/
 #include <csetjmp>
 #include <csignal>
 #include <cstdbool>
