@@ -1,8 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * pa3
- */
 #ifndef LIST_H_INCLUDE_
 #define LIST_H_INCLUDE_
 #include<stdbool.h>
