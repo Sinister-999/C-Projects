@@ -1,9 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * pa3
- */
-
 #ifndef PA3_GRAPH_H
 #define PA3_GRAPH_H
 
