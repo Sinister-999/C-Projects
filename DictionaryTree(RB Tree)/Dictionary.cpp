@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA7
-* Dictionary.cpp
-* Dictionary ADT
-***/
 #include <iostream>
 #include "Dictionary.h"
 
