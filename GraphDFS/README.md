@@ -1,0 +1,7 @@
+List.c - This file creates a bi directionaly Linked List ADT and adds constructor, deconstructor, access, and manipulation functions for the ADT.
+List.h - This file allows Graph.c, FindPath.c and GraphTest.c to use the ADT and ADT functions made in List.c
+Graph.c - This file creates a Graph ADT and adds a constructor, deconstructor, access, and manipulation functions for the ADT
+Graph.h - This file allows FindPath.c and GraphTest.c to use the Graph ADT and its functions made in Graph.c
+GraphTest.c - This file includes all the Test I did to test all the ADT access, manipulation, and constructor and deconstructor functions. This file is not used in the main files, this file is simply for testing purposes.
+FindComponents.c - This file is the main function of this program, it takes two command line arguments, an input and output file, the input file has a specific format to follow, the first line should be the size of the graph, then all the vertexes of the graph followed by "0 0" to declare that vertexs are finished. The program then will print the adjacency list, and the strongly connected components onto the output file.
+Makefile - This file complies List.c, List.h, Graph.c, Graph.h, GraphTest.c, and FindPath.c and outputs it as a program FindPath.
