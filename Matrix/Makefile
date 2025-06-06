@@ -1,20 +1,3 @@
-#
-# Jestin Baath
-# 2069245
-# pa4
-#
-#------------------------------------------------------------------------------
-#  Makefile for CSE 101 Programming Assignment 4
-#
-#  make                     makes Sparse
-#  make MatrixTest          makes MatrixTest
-#  make ListTest            makes ListTest
-#  make clean               removes all binaries
-#  make SparseCheck         runs Sparse in valgrind on in5
-#  make MatrixCheck         runs MatrixTest in valgrind
-#  make ListCheck           runs ListTest in valgrind
-#------------------------------------------------------------------------------
-
 MAIN           = Sparse
 ADT1           = Matrix
 ADT2           = List
