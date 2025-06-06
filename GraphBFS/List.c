@@ -1,9 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * PA2
- * List.c - Makes a List ADT and functions for it
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
