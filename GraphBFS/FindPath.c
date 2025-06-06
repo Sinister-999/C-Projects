@@ -1,9 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * PA2
- * FindPath.c - takes an input and an output file to make a graph ADT and gives the adjacency list, Distance, and Path
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
