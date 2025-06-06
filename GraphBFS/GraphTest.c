@@ -1,9 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * PA2
- * GraphTest.c - For testing the Graph ADT and its functions
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include "Graph.h"
