@@ -1,10 +1,3 @@
-/*
- * Jestin Baath
- * 2069245
- * PA2
- * Graph.c - Makes a Graph ADT and functions for it
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "Graph.h"
