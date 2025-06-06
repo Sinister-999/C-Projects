@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA7
-* Dictionary.h
-* Dictionary ADT header file
-***/
 //-----------------------------------------------------------------------------
 // Dictionary.h
 // Header file for Dictionary ADT based on a Binary Search Tree. Includes a
