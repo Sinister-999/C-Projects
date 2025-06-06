@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA6
-* List.cpp
-* List ADT
-***/
 #include <iostream>
 #include "List.h"
 
