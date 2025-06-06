@@ -1,13 +1,3 @@
-#------------------------------------------------------------------------------
-#  Makefile for CSE 101 Programming Assignment 7
-#
-#  make                     makes Order
-#  make DictionaryClient    makes DictionaryClient
-#  make clean               removes all binaries
-#  make OrderCheck          runs Order under valgrind on in5 junk5
-#  make DictionaryCheck     runs DictionaryClient under valgrind
-#------------------------------------------------------------------------------
-
 MAIN           = Order
 ADT            = Dictionary
 SOURCE         = $(MAIN).cpp
