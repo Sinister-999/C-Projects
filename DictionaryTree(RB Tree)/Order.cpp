@@ -1,10 +1,3 @@
-/***
-* Jestin Baath
-* jsbaath
-* 2024 Fall CSE101 PA7
-* Order.cpp
-* Client for Dictionary ADT
-***/
 #include <iostream>
 #include <fstream>
 #include <string>
